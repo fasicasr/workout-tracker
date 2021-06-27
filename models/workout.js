@@ -5,7 +5,7 @@ const Workout = mongoose.model('Workout', {
      type: Date,
      required: "Enter date for your excercise"
    }, 
-   excercises: [{
+   exercises: [{
      name: {
        type: String,
        trim: true,
