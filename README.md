@@ -10,14 +10,14 @@ This workout tracker app allows users to to create, track, and view daily workou
 View Application - [Here](https://fsr-workout-tracker.herokuapp.com/)
 
 Preview of Application:
-![Application image]()
-![Application image]()
+![Application image](/images/fitnesspage.png)
+Dashboard:
+![Application image](/images/dashboard.png)
 
 ## Usage
 
 This application uses MongoDB to store workout content. 
-When a user comes to the landing page:
-* The option to create a new workout or continue workout 
+*  When a user comes to the landing page, they habe the option to create a new workout or continue a previous workout
 * When user creates new workout, they will slect exercises type and will enter exercise type, name, weight, sets, reps, and duration of workout. User can add as many exercise as they please. Once they finish with their workout, they will click on complete. 
 * once complete, user is presented with the information from last workout. User also has the ablility to continue workout by clicking on "continue workout". To get detailed  graphical information about thir workout, user can click on dashboard.
 * On the dashboard page, user is presented with two graphs that display workout duration and punds used day to day.
