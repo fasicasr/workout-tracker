@@ -1,8 +1,8 @@
-# workout-tracker
+# Workout Tracker
 
 ## Discription 
 
-This workout tracker app allows users to to create, track, and view daily workouts. 
+This workout tracker app allows users to to create, track, and view daily workouts by just a few clicks. App users will have the option to choose between resistance or Cardio and will use the following catagories, exercise name, weight, sets, reps, duration, and distance if they choose cardio, to maintain their sessions. 
 
 
 ## Application Display  
